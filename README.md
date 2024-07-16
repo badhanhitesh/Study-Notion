@@ -24,7 +24,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/StudyNotion.git
+git clone https://github.com/badhanhitesh/StudyNotion.git
 
 # Navigate to the project directory
 cd StudyNotion
